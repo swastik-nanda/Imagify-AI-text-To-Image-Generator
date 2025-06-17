@@ -1,0 +1,12 @@
+# Ignore node_modules anywhere
+**/node_modules/
+
+# Ignore all .env files anywhere
+**/.env
+
+# Ignore OS and editor files globally
+.DS_Store
+*.log
+*.swp
+.vscode/
+.idea/
