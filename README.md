@@ -49,9 +49,9 @@ Ai Text to Image Proj/
 ### 🖥️ Desktop Interface
 <img width="1893" alt="Main Dashboard" src="https://github.com/user-attachments/assets/cd736422-5057-4653-9208-d65c9b3c1365" />
 
-*🎨 Main dashboard with image generation interface*
+*🖼️ Generated images gallery and management*
 
-<img width="1338" alt="Image Gallery View" src="https://github.com/user-attachments/assets/7ca03ea7-684a-4ee6-8eb5-417e3d1fca1e" />
+<img width="1338" alt="User Profile" src="https://github.com/user-attachments/assets/9d2688ee-808b-4f4a-8d23-2dc7a844eb10" />
 
 *👤 User profile and credit management*
 
