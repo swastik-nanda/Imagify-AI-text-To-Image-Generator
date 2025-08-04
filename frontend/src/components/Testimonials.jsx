@@ -16,7 +16,12 @@ function Testimonials() {
             m-auto hover:scale-105 transition-all duration-300 cursor-pointer"
           >
             <div className="flex flex-col items-center">
-              <img src={item.image} alt="" className="rounded-full w-14" />
+              <img
+                src={item.image}
+                alt={item.name}
+                className="rounded-full w-14"
+                loading="lazy"
+              />
               <h2 className="font-semibold text-xl mt-3">{item.name}</h2>
               <p className="text-gray-500 mb-4">{item.role}</p>
 
@@ -24,7 +29,12 @@ function Testimonials() {
                 {Array(item.stars)
                   .fill()
                   .map((star, index) => (
-                    <img key={index} src={assets.rating_star} alt="" />
+                    <img
+                      key={index}
+                      src={assets.rating_star}
+                      alt="stars"
+                      loading="lazy"
+                    />
                   ))}
               </div>
               <p className="text-center text-sm text-gray-600">{item.text}</p>

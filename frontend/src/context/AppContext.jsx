@@ -24,12 +24,22 @@ const AppContextProvider = (props) => {
         setUser(data.user);
       }
     } catch (err) {
-      toast.error(err);
+      if (err.response?.status === 401) {
+        localStorage.removeItem("token");
+        setToken("");
+        setUser(null);
+      }
+      toast.error(err.message);
     }
   };
 
   useEffect(() => {
-    if (token) {
+    if (
+      token &&
+      token !== "null" &&
+      token !== "undefined" &&
+      token.length > 10
+    ) {
       loadCredits();
     }
   }, [token]);
@@ -82,4 +92,5 @@ const AppContextProvider = (props) => {
     <AppContext.Provider value={value}>{props.children}</AppContext.Provider>
   );
 };
+
 export default AppContextProvider;

@@ -22,5 +22,9 @@ app.use("/api/image/", imageRouter);
 app.get("/", (req, res) => {
   res.send("API WORKING");
 });
+app.get("/ping", (req, res) => {
+  res.send("pong");
+});
+console.log(">>> Running index.js");
 
 app.listen(PORT, () => console.log(`Backend Connected at Port: ${PORT}`));
