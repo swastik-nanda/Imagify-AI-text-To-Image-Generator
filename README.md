@@ -46,43 +46,43 @@ Ai Text to Image Proj/
 
 ## 📸 Screenshots
 
-### Desktop Interface
+### 🖥️ Desktop Interface
 <img width="1893" alt="Main Dashboard" src="https://github.com/user-attachments/assets/cd736422-5057-4653-9208-d65c9b3c1365" />
 
-*Main dashboard with image generation interface*
+*🎨 Main dashboard with image generation interface*
 
 <img width="1338" alt="Image Gallery View" src="https://github.com/user-attachments/assets/7ca03ea7-684a-4ee6-8eb5-417e3d1fca1e" />
 
-*Generated images gallery and management*
+*🖼️ Generated images gallery and management*
 
 <img width="1338" alt="User Profile" src="https://github.com/user-attachments/assets/9d2688ee-808b-4f4a-8d23-2dc7a844eb10" />
 
-*User profile and credit management*
+*👤 User profile and credit management*
 
 <img width="1904" alt="Payment Integration" src="https://github.com/user-attachments/assets/6b6623a7-291e-4840-a5f9-450cbc64dc32" />
 
-*Razorpay payment integration for credit purchases*
+*💳 Razorpay payment integration for credit purchases*
 
 <img width="1244" alt="Generated Image Preview" src="https://github.com/user-attachments/assets/d55db2f3-fb8d-4d5a-87be-f4992475a0c6" />
 
-*AI-generated image preview and download*
+*🎭 AI-generated image preview and download*
 
-### Mobile Interface
+### 📱 Mobile Interface
 <img width="466" alt="Mobile Login" src="https://github.com/user-attachments/assets/55f9623d-7626-4089-814f-cd1c2bb3d58c" />
 
-*Mobile login interface*
+*🔐 Mobile login interface*
 
 <img width="470" alt="Mobile Dashboard" src="https://github.com/user-attachments/assets/929ebfef-2feb-4df9-b89e-fc780faf35d3" />
 
-*Mobile dashboard and image generation*
+*📲 Mobile dashboard and image generation*
 
 <img width="483" alt="Mobile Gallery" src="https://github.com/user-attachments/assets/e93b4f50-9b0e-47d8-8088-961b17f9a950" />
 
-*Mobile image gallery view*
+*📷 Mobile image gallery view*
 
 <img width="474" alt="Mobile Profile" src="https://github.com/user-attachments/assets/d50dc6a0-5bf3-40b3-89df-da355f15caba" />
 
-*Mobile user profile and settings*
+*⚙️ Mobile user profile and settings*
 
 ## 🚀 Quick Start
 
